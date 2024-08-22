@@ -12,8 +12,8 @@ Soy una desarrolladora Jr. apasionada por el desarrollo backend. Me encanta trab
 - **Bases de datos:** PostgreSQL
 
 ## 🎓 Formación
-- Desarrollo de aplicaciones FullStack Java (Praxis)
-- Desarrollo de aplicaciones FullStack Python (Edutecno)
+- Desarrollo de aplicaciones FullStack Java Trainee(Praxis)
+- Desarrollo de aplicaciones FullStack Python Trainee(Edutecno)
 - Ingeniería en Biotecnología (Usach)
 
 ## 📫Contacto
