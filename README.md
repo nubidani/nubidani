@@ -12,9 +12,9 @@ Soy una desarrolladora Jr. apasionada por el desarrollo backend. Me encanta trab
 - **Bases de datos:** PostgreSQL
 
 ## 🎓 Formación
-- Desarrollo de aplicaciones FullStack Java Trainee(Praxis)
-- Desarrollo de aplicaciones FullStack Python Trainee(Edutecno)
-- Ingeniería en Biotecnología (Usach)
+- Desarrollo de aplicaciones FullStack Java Trainee
+- Desarrollo de aplicaciones FullStack Python Trainee
+- Ingeniería en Biotecnología 
 
 ## 📫Contacto
 - [nubiaascencioar@gmail.com](mailto:nubiaascencioar@gmail.com)
