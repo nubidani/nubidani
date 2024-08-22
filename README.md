@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**nubidani/nubidani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋¡Hola! Soy Nubia Ascencio 
 
-Here are some ideas to get you started:
+## 📍Rengo, Chile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☝️Sobre mí
+Soy una desarrolladora Jr. apasionada por el desarrollo backend. Me encanta trabajar en proyectos que utilizan Spring Boot conectado a base de datos, y siempre estoy buscando aprender nuevas habilidades.
+
+## 🎯 Habilidades
+- **Lenguajes de programación:** Java, Python
+- **Frameworks:** Spring Boot, Thymeleaf, JPA
+- **Bases de datos:** PostgreSQL
+
+## 🎓 Formación
+- Desarrollo de aplicaciones FullStack Java (Praxis)
+- Desarrollo de aplicaciones FullStack Python (Edutecno)
+- Ingeniería en Biotecnología (Usach)
+
+## 📫Contacto
+- [nubiaascencioar@gmail.com](mailto:nubiaascencioar@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nubia-ascencio-aravena/)
+
+
+
+
